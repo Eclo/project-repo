@@ -1,0 +1,3 @@
+[submodule "component-repo"]
+	path = component-repo
+	url = https://github.com/Eclo/component-repo.git
